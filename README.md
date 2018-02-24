@@ -1,1 +1,1 @@
-# twitch-track-all-the-things
+A Real-Time Location Tracking App With JavaScript
